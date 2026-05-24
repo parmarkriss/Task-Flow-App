@@ -17,7 +17,7 @@ const Header = () => {
           <div className="flex gap-5 items-center">
             <div className="relative">
 
-              <div className="w-12 h-12 bg-gradient-to-br from-cyan-400 via-blue-500 to-indigo-600 rounded-2xl flex items-center justify-center shadow-lg shadow-cyan-500/30">
+              <div className="w-12 h-12 bg-linear-to-br from-cyan-400 via-blue-500 to-indigo-600 rounded-2xl flex items-center justify-center shadow-lg shadow-cyan-500/30">
                 <Sparkles className="text-white" size={24} />
               </div>
 

@@ -11,7 +11,7 @@ import ClearButton from './components/ClearButton'
 const App = () => {
   return (
     <>
-      <div className="min-h-screen bg-gradient-to-br from-slate-950 via-gray-900 to-slate-950 p-3 sm:p-3 relative overflow-hidden">
+      <div className="min-h-screen bg-linear-to-br from-slate-950 via-gray-900 to-slate-950 p-3 sm:p-3 relative overflow-hidden">
         <Animate />
 
         <Notification />
